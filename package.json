@@ -1,0 +1,21 @@
+{
+  "name": "lambda-selenium-bin",
+  "version": "1.0.0",
+  "description": "Lambda selenium binaries.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CherryCircle/lambda-selenium.git"
+  },
+  "scripts": {
+    "install": "node install.js"
+  },
+  "keywords": [
+    "lambda-selenium",
+    "lambda-selenium-bin"
+  ],
+  "readmeFilename": "README.md",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "engines": {
+    "node": ">= 6.0.0"
+  }
+}
