@@ -8,6 +8,7 @@
   },
   "main": "install.js",
   "scripts": {
+    "preinstall": "npm install extract-zip",
     "install": "node install.js"
   },
   "keywords": [
@@ -17,7 +18,6 @@
   "readmeFilename": "README.md",
   "license": "GNU GENERAL PUBLIC LICENSE",
   "dependencies": {
-    "del": "^3.0.0",
     "extract-zip": "^1.6.7"
   },
   "engines": {
