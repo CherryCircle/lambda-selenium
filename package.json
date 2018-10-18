@@ -8,7 +8,7 @@
   },
   "main": "install.js",
   "scripts": {
-    "preinstall": "npm install extract-zip",
+    "preinstall": "npm install",
     "install": "node install.js"
   },
   "keywords": [
